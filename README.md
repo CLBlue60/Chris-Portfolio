@@ -1,3 +1,4 @@
+![FireShot Capture 002 - Chris' Portfolio - clblue60 github io](https://github.com/CLBlue60/Chris-Portfolio/assets/163502624/39471c24-f364-414b-8cb7-c10cc9f154e9)
 # Chris' Portfolio
 
 This is a simple HTML file for my portfolio. It includes sections for "About," "Work," and "Contact." Below is the structure and basic styling used in this HTML file:
